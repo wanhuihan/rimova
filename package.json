@@ -1,0 +1,31 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "template for rimova in ecshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanhuihan/rimova.git"
+  },
+  "keywords": [
+    "ecshop",
+    "template"
+  ],
+  "author": "Jack H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanhuihan/rimova/issues"
+  },
+  "homepage": "https://github.com/wanhuihan/rimova#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
