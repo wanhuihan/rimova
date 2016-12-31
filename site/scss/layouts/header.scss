@@ -1,5 +1,6 @@
 .navbar {
 	a {
+		font-size: 14px;
 		&.navbar-brand {
 			padding: 0 15px;
 			position: relative; 
@@ -11,6 +12,21 @@
 				background-size: 80%;
 			}
 
+		}
+	}
+	.navbar-right {
+		height: 50px;
+		position: relative;
+		a {
+			display: inline-block;
+			line-height: 50px;
+			margin-left: 15px;
+		}
+		span {
+			//margin-top: 5px;
+			//margin-bottom: 10px;
+			font-size: 16px;
+			vertical-align: middle;		
 		}
 	}
 }
